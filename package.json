@@ -1,0 +1,23 @@
+{
+  "name": "testbench",
+  "version": "0.0.0",
+  "description": "protoyping",
+  "main": "build/server/",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodekeract/testbench.git"
+  },
+  "author": "Florian Wendelborn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodekeract/testbench/issues"
+  },
+  "homepage": "https://github.com/dodekeract/testbench#readme",
+  "dependencies": {
+    "dota2-api": "^0.2.0",
+    "steam-user-inventory": "^2.0.0"
+  }
+}
